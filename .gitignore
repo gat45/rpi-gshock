@@ -1,0 +1,8 @@
+dist/
+__pycache__/
+*.o
+*.elf
+*.fap
+*.exe
+audit*.sh
+.vscode/
